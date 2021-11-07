@@ -19,9 +19,8 @@ public class Main {
         int indeks = scan.nextInt();
         System.out.println();
 
-        System.out.printf("Twoje dane to: imię %s, Nazwisko %s, Wiek %d, nr Indeksu %d\n", imie, nazwisko, wiek, indeks);
-        System.out.println();
-        System.out.println();
+        System.out.printf("Twoje dane to: imię %s, Nazwisko %s, Wiek %d, nr Indeksu %d\n\n\n", imie, nazwisko, wiek, indeks);
+
 
 
         /*  zad.2 zadeklarować 2 zmienne typu int i wykonać na nich obliczenia arytmetyczn (+, -, *, /, %)
